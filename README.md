@@ -9,7 +9,7 @@
 
 ## Sobre mim
 - 🎯 Busco iniciar como *estagiário em TI* para ganhar experiência prática.
-- 🧠 Estudando: *Python, **SQL/SQLite, **SQLAlchemy (ORM), **FastAPI, **Git/GitHub*.
+- 🧠 Estudando: *Python*
 - 🚀 Objetivo: me consolidar como *dev back-end*, criando APIs estáveis e bem testadas.
 
 ## Stack / Ferramentas
@@ -30,6 +30,6 @@
 ---
 
 ## Onde me encontrar
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/pedro-alves-9b23a1375">/in/pedro-alves-9b23a1375</a>  
+- 💼 LinkedIn: <a href="www.linkedin.com/in/pedro-alvesdev">/in/pedro-alves-9b23a1375</a>  
 - ✉ Email: <a href="mailto:pedroalves.devv@gmail.com">pedroalves.devv@gmail.com</a>
 
