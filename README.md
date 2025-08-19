@@ -14,22 +14,6 @@
 
 ## Stack / Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-
-## Projetos em destaque
-- 📚 *EstudandoPython* — exercícios e anotações do meu estudo de Python  
-  ↳ foco: fundamentos, condicionais, laços, funções e tratamento de erros
-
-## Metas de curto prazo
-- [ ] Subir 1 projeto com *FastAPI* + *SQLite/SQLAlchemy*
-- [ ] Começar a usar *testes automatizados* (pytest)
-- [ ] Contribuir em 1 repositório *open source*
 
 ---
 
