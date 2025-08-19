@@ -30,6 +30,6 @@
 ---
 
 ## Onde me encontrar
-- 💼 LinkedIn: <a href="www.linkedin.com/in/pedro-alvesdev">/in/"www.linkedin.com/in/pedro-alvesdev</a>  
+- 💼 LinkedIn: <a href="www.linkedin.com/in/pedro-alvesdev">www.linkedin.com/in/pedro-alvesdev</a>  
 - ✉ Email: <a href="mailto:pedroalves.devv@gmail.com">pedroalves.devv@gmail.com</a>
 
