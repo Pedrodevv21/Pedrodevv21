@@ -2,7 +2,7 @@
 <h1 align="center">Olá! Eu sou o Pedro 👋</h1>
 <p align="center">
   Estudante de <b>Análise e Desenvolvimento de Sistemas</b> • Foco em <b>Back-end com Python</b><br/>
-  São Paulo – Brasil · <a href="https://www.linkedin.com/in/pedro-alves-9b23a1375">LinkedIn</a> · <a href="mailto:pedroalves.devv@gmail.com">Email</a>
+  São Paulo – Brasil · <a href="www.linkedin.com/in/pedro-alvesdev">LinkedIn</a> · <a href="mailto:pedroalves.devv@gmail.com">Email</a>
 </p>
 
 ---
