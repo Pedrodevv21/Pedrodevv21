@@ -22,10 +22,13 @@
 
 ---
 
-## 📊 Métricas do GitHub
+## 📊 GitHub Stats
 
-![skyline](https://skyline.github.com/pedrodev21.svg)
+![Pedro's GitHub stats](https://pedrodevv21-z8rw-rcr98i8iu-pedro-alves-projects-cefda551.vercel.app/api?username=pedrodevv21&show_icons=true&theme=radical&count_private=true)
 
+## 💻 Linguagens Mais Usadas
+
+![Top Langs](https://pedrodevv21-z8rw-rcr98i8iu-pedro-alves-projects-cefda551.vercel.app/api/top-langs/?username=pedrodevv21&layout=compact&theme=radical)
 ---
 
 ## 🧩 Projetos em destaque
