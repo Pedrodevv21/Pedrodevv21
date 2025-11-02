@@ -24,8 +24,7 @@
 
 ## 📊 Métricas do GitHub
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrodev21&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodev21&layout=compact&theme=tokyonight&count_private=true)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrodev21&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
