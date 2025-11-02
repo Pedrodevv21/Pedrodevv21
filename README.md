@@ -25,7 +25,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|-------------|
-| [To-Do List (AWS Lambda + Terraform)](https://github.com/pedrodev21/to-do-list) | Aplicação serverless com API Gateway, Lambda e DynamoDB via Terraform. | Python, AWS, Terraform, CI/CD |
+| [To-Do List (AWS Lambda + Terraform)] | Aplicação serverless com API Gateway, Lambda e DynamoDB via Terraform. | Python, AWS, Terraform, CI/CD |
 
 ---
 
