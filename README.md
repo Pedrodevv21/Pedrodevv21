@@ -24,7 +24,7 @@
 
 ## 📊 Métricas do GitHub
 
-![trophies](https://github-profile-trophy.vercel.app/?username=pedrodev21&theme=tokyonight)
+![skyline](https://skyline.github.com/pedrodev21.svg)
 
 ---
 
