@@ -24,7 +24,7 @@
 
 ## 📊 Métricas do GitHub
 
-<img src="https://ghchart.rshah.org/pedrodev21" alt="contributions chart" />
+![trophies](https://github-profile-trophy.vercel.app/?username=pedrodev21&theme=tokyonight)
 
 ---
 
