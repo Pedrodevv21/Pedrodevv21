@@ -17,9 +17,8 @@
 
 ## 🧰 Stack / Ferramentas  
 
-| Linguagem | Infraestrutura | Cloud |
-|------------|----------------|--------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 ---
 
@@ -35,7 +34,6 @@
 | Projeto | Descrição | Tecnologias |
 |----------|------------|-------------|
 | [To-Do List (AWS Lambda + Terraform)](https://github.com/pedrodev21/to-do-list) | Aplicação serverless com API Gateway, Lambda e DynamoDB via Terraform. | Python, AWS, Terraform |
-| [Em breve...](#) | Novos projetos virão conforme avanço nos estudos e na faculdade. | — |
 
 ---
 
@@ -49,7 +47,6 @@
 
 📘 *Python Avançado (POO, APIs e ORM)*  
 ☁ *AWS & Terraform* — infraestrutura como código e deploys automatizados  
-🎯 *Boas práticas de código e versionamento com Git*
 
 ---
 
@@ -59,6 +56,4 @@
 🔗 *LinkedIn:* [linkedin.com/in/pedro-alves-9b23a1375](https://www.linkedin.com/in/pedro-alves-9b23a1375)  
 💻 *Portfólio GitHub:* [github.com/pedrodev21](https://github.com/pedrodev21)
 
----
 
-⭐ “A evolução vem com a constância. Cada linha de código é um passo.”
