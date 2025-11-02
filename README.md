@@ -24,7 +24,7 @@
 
 ## 📊 Métricas do GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pedrodev21&theme=tokyonight)
+<img src="https://ghchart.rshah.org/pedrodev21" alt="contributions chart" />
 
 ---
 
