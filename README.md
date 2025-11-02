@@ -19,16 +19,6 @@
 
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-
----
-
-## 📊 GitHub Stats
-
-![Pedro's GitHub stats](https://pedrodevv21-z8rw-rcr98i8iu-pedro-alves-projects-cefda551.vercel.app/api?username=pedrodevv21&show_icons=true&theme=radical&count_private=true)
-
-## 💻 Linguagens Mais Usadas
-
-![Top Langs](https://pedrodevv21-z8rw-rcr98i8iu-pedro-alves-projects-cefda551.vercel.app/api/top-langs/?username=pedrodevv21&layout=compact&theme=radical)
 ---
 
 ## 🧩 Projetos em destaque
