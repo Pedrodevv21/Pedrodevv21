@@ -29,12 +29,6 @@
 
 ---
 
-## 🧩 Estatísticas de Contribuições
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pedrodev21&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D)
-
----
-
 ## 🧱 Em aprendizado atualmente
 
 📘 *Python Avançado (POO, APIs e ORM)*  
