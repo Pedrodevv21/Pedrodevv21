@@ -1,45 +1,62 @@
-# 👋 Olá! Eu sou o Pedro Henrique Alves Pereira  
+# Olá, eu sou o Pedro Henrique 👋
 
-🎓 *Estudante de Análise e Desenvolvimento de Sistemas* — Foco em *Back-end com Python*  
-📍 São Paulo - Brasil  
-🔗 [LinkedIn](https://www.linkedin.com/in/pedro-alves-9b23a1375) | ✉ pedroalves.devv@gmail.com  
-
----
-
-## 🧠 Sobre mim
-
-- 🚀 Busco iniciar minha carreira como *estagiário em TI* para ganhar experiência prática.  
-- 🐍 Atualmente estudando *Python, **AWS* e *Terraform, com foco em desenvolvimento **Back-end* e *infraestrutura como código*.  
-- 💡 Objetivo: me tornar um *desenvolvedor back-end* capaz de criar *APIs e sistemas escaláveis* na nuvem.  
-- 💼 Experiência anterior com *gestão de equipe e processos*, desenvolvendo habilidades de liderança e organização.  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** — Cruzeiro do Sul  
+💼 Estagiário de Provisioning na **Mundivox Comunicações**  
+📍 São Paulo, Brasil  
 
 ---
 
-## 🧰 Stack / Ferramentas  
+## Sobre mim
 
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-## 🧩 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|----------|------------|-------------|
-| [To-Do List (AWS Lambda + Terraform)] | Aplicação serverless com API Gateway, Lambda e DynamoDB via Terraform. | Python, AWS, Terraform, CI/CD |
+Desenvolvedor back-end em formação, com foco em **Python**, **AWS** e **infraestrutura como código**.  
+No dia a dia, atuo com redes corporativas — configuração de roteadores, switches e provisionamento de circuitos B2B.  
+Meu objetivo é construir **APIs robustas e sistemas escaláveis na nuvem**, combinando desenvolvimento e infra.
 
 ---
 
-## 🧱 Em aprendizado atualmente
+## Stack
 
-📘 *Python Avançado (POO, APIs e ORM)*  
-☁ *AWS & Terraform* — infraestrutura como código e deploys automatizados  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 💬 Contato
+## Projeto em destaque
 
-📩 *E-mail:* pedroalves.devv@gmail.com  
-🔗 *LinkedIn:* [linkedin.com/in/pedro-alves-9b23a1375](https://www.linkedin.com/in/pedro-alves-9b23a1375)  
-💻 *Portfólio GitHub:* [github.com/pedrodev21](https://github.com/pedrodev21)
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [To-Do List Serverless](https://github.com/Pedrodevv21) | API serverless com Lambda, DynamoDB e API Gateway, infra via Terraform | Python · AWS · Terraform · CI/CD |
+
+---
+
+## Roadmap atual
+```
+Python → Django → FastAPI + SQLAlchemy → PostgreSQL → AWS (prática) → Terraform
+```
+
+---
+
+## Estatísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedrodevv21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrodevv21&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Pedrodevv21&theme=tokyonight&hide_border=true&locale=pt_BR)
+
+</div>
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-alves-9b23a1375)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroalves.devv@gmail.com)
 
 
